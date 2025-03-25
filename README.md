@@ -1,6 +1,5 @@
 # nn
-## # nn
-## Simple Neural Netwoek 
+## Simple Neural Network 
 
 ## Описание кода:
 ### Структура нейронной сети:
